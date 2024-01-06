@@ -3,7 +3,7 @@ import PostItem from "./PostItem";
 import { postsApi } from "../services/PostService";
 
 const PostContainer2: FC = () => {
-  const { data: posts, error, isLoading } = postsApi.useFetchAllpostsQuery(5);
+  const { data: posts, error, isLoading } = postsApi.useFetchAllpostsQuery(100);
 
   return (
     <div>

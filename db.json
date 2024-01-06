@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "body",
+      "author": "typicode"
+    },
+    {
+      "id": 1,
+      "title": "body",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "body",
+      "author": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "author": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "body",
+      "author": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "Pavel",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
